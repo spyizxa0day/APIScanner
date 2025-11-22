@@ -24,7 +24,7 @@ You must have Python 3.x installed on your system to run APIScanner.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Spyizxa/APIScanner.git](https://github.com/Spyizxa/APIScanner.git)
+    git clone https://github.com/spyizxa0day/APIScanner.git
     cd APIScanner
     ```
 
