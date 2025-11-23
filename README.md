@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/spyizxa/APIScanner.git
+git clone https://github.com/spyizxa0day/APIScanner.git
 cd APIScanner
 pip install -r requirements.txt
 python3 APIScanner.py
