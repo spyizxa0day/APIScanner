@@ -7,7 +7,7 @@
 ![Telegram](https://img.shields.io/badge/Contact-%40spyizxa__0day-2CA5E0?logo=telegram)
 
 
-**Real endpoints only. No noise. No false positives.**
+**APIScanner is an advanced reconnaissance tool designed to automatically discover API endpoints, hidden parameters, and sensitive data that are often overlooked during manual penetration testing (pentesting) of web applications. Real endpoints only. No noise. No false positives.**
 
 ---
 
