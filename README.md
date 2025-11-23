@@ -40,4 +40,4 @@ You must have Python 3.x installed on your system to run APIScanner.
 The tool runs in an easy-to-use interactive mode:
 
 ```bash
-python apiscanner.py
+python APIScanner.py
