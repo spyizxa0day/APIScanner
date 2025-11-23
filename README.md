@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat&logo=python)
 ![Version](https://img.shields.io/badge/Version-v2.0-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Author](https://img.shields.io/badge/Author-%40spyizxa-red)
+[![Follow on X](https://img.shields.io/badge/Follow-@spyizxa-000000?style=flat&logo=x)](https://x.com/spyizxa)
 ![Telegram](https://img.shields.io/badge/Contact-%40spyizxa__0day-2CA5E0?logo=telegram)
 
 
