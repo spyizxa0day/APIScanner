@@ -13,7 +13,6 @@
 
 ## Features
 
-- **Zero-Noise Filtering** – Eliminates garbage like `px`, `400`, `lütfen giriniz`, etc.
 - Deep JavaScript crawling & endpoint extraction
 - Supports `/api/`, `/v1-v9/`, `/graphql`, `/admin`, `/auth`, `/rest`, Next.js `_next/data/`
 - Full subdomain support (`www.`, `cdn.`, `api.`, `static.`)
